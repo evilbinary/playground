@@ -68,7 +68,7 @@ var ENVIRONMENT_IS_SHELL = !ENVIRONMENT_IS_WEB && !ENVIRONMENT_IS_NODE && !ENVIR
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpnwle46a6.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpkxl5mnye.js
 if (!Module["expectedDataFileDownloads"]) Module["expectedDataFileDownloads"] = 0;
 
 Module["expectedDataFileDownloads"]++;
@@ -807,23 +807,23 @@ Module["expectedDataFileDownloads"]++;
   });
 })();
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpnwle46a6.js
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpgji7mjph.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpkxl5mnye.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpnqdpp29c.js
 // All the pre-js content up to here must remain later on, we need to run
 // it.
 if ((typeof ENVIRONMENT_IS_WASM_WORKER != "undefined" && ENVIRONMENT_IS_WASM_WORKER) || (typeof ENVIRONMENT_IS_PTHREAD != "undefined" && ENVIRONMENT_IS_PTHREAD) || (typeof ENVIRONMENT_IS_AUDIO_WORKLET != "undefined" && ENVIRONMENT_IS_AUDIO_WORKLET)) Module["preRun"] = [];
 
 var necessaryPreJSTasks = Module["preRun"].slice();
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpgji7mjph.js
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpwgoxkc0v.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpnqdpp29c.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp14os4i5b.js
 if (!Module["preRun"]) throw "Module.preRun should exist because file support used it; did a pre-js delete it?";
 
 necessaryPreJSTasks.forEach(task => {
   if (Module["preRun"].indexOf(task) < 0) throw "All preRun tasks that exist before user pre-js code should remain after; did you replace Module or modify Module.preRun?";
 });
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpwgoxkc0v.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp14os4i5b.js
 var arguments_ = [];
 
 var thisProgram = "./this.program";
@@ -12503,9 +12503,9 @@ var _htons = Module["_htons"] = makeInvalidEarlyAccess("_htons");
 
 var _ntohs = Module["_ntohs"] = makeInvalidEarlyAccess("_ntohs");
 
-var _htonl = Module["_htonl"] = makeInvalidEarlyAccess("_htonl");
-
 var _fflush = Module["_fflush"] = makeInvalidEarlyAccess("_fflush");
+
+var _htonl = Module["_htonl"] = makeInvalidEarlyAccess("_htonl");
 
 var ___funcs_on_exit = Module["___funcs_on_exit"] = makeInvalidEarlyAccess("___funcs_on_exit");
 
@@ -12558,8 +12558,8 @@ function assignWasmExports(wasmExports) {
   assert(typeof wasmExports["strerror"] != "undefined", "missing Wasm export: strerror");
   assert(typeof wasmExports["htons"] != "undefined", "missing Wasm export: htons");
   assert(typeof wasmExports["ntohs"] != "undefined", "missing Wasm export: ntohs");
-  assert(typeof wasmExports["htonl"] != "undefined", "missing Wasm export: htonl");
   assert(typeof wasmExports["fflush"] != "undefined", "missing Wasm export: fflush");
+  assert(typeof wasmExports["htonl"] != "undefined", "missing Wasm export: htonl");
   assert(typeof wasmExports["__funcs_on_exit"] != "undefined", "missing Wasm export: __funcs_on_exit");
   assert(typeof wasmExports["fileno"] != "undefined", "missing Wasm export: fileno");
   assert(typeof wasmExports["emscripten_stack_get_end"] != "undefined", "missing Wasm export: emscripten_stack_get_end");
@@ -12586,8 +12586,8 @@ function assignWasmExports(wasmExports) {
   _strerror = Module["_strerror"] = createExportWrapper("strerror", 1);
   _htons = Module["_htons"] = createExportWrapper("htons", 1);
   _ntohs = Module["_ntohs"] = createExportWrapper("ntohs", 1);
-  _htonl = Module["_htonl"] = createExportWrapper("htonl", 1);
   _fflush = Module["_fflush"] = createExportWrapper("fflush", 1);
+  _htonl = Module["_htonl"] = createExportWrapper("htonl", 1);
   ___funcs_on_exit = Module["___funcs_on_exit"] = createExportWrapper("__funcs_on_exit", 0);
   _fileno = Module["_fileno"] = createExportWrapper("fileno", 1);
   _emscripten_stack_get_end = Module["_emscripten_stack_get_end"] = wasmExports["emscripten_stack_get_end"];
