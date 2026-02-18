@@ -68,7 +68,7 @@ var ENVIRONMENT_IS_SHELL = !ENVIRONMENT_IS_WEB && !ENVIRONMENT_IS_NODE && !ENVIR
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp5hw6bqw5.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpxviq6kmh.js
 if (!Module["expectedDataFileDownloads"]) Module["expectedDataFileDownloads"] = 0;
 
 Module["expectedDataFileDownloads"]++;
@@ -259,571 +259,575 @@ Module["expectedDataFileDownloads"]++;
       "start": 15432453,
       "end": 15432860
     }, {
-      "filename": "/app/calc/calc.json",
+      "filename": "/app/calc/app.json",
       "start": 15432860,
-      "end": 15455696
+      "end": 15433087
+    }, {
+      "filename": "/app/calc/calc.json",
+      "start": 15433087,
+      "end": 15455923
     }, {
       "filename": "/app/calc/main.c",
-      "start": 15455696,
-      "end": 15461119
+      "start": 15455923,
+      "end": 15461345
     }, {
       "filename": "/app/camera/app.json",
-      "start": 15461119,
-      "end": 15468618
+      "start": 15461345,
+      "end": 15468844
     }, {
       "filename": "/app/camera/camera.js",
-      "start": 15468618,
-      "end": 15475334
+      "start": 15468844,
+      "end": 15475560
     }, {
       "filename": "/app/camera/main.c",
-      "start": 15475334,
-      "end": 15480758
+      "start": 15475560,
+      "end": 15480984
     }, {
       "filename": "/app/clock-new.json",
-      "start": 15480758,
-      "end": 15484256
+      "start": 15480984,
+      "end": 15484482
     }, {
       "filename": "/app/clock-simple.json",
-      "start": 15484256,
-      "end": 15485030
+      "start": 15484482,
+      "end": 15485256
     }, {
       "filename": "/app/clock.json",
-      "start": 15485030,
-      "end": 15486714
+      "start": 15485256,
+      "end": 15486940
     }, {
       "filename": "/app/dark-theme.json",
-      "start": 15486714,
-      "end": 15488153
+      "start": 15486940,
+      "end": 15488379
     }, {
       "filename": "/app/js/app.json",
-      "start": 15488153,
-      "end": 15488590
+      "start": 15488379,
+      "end": 15488816
     }, {
       "filename": "/app/js/apple-catcher.json",
-      "start": 15488590,
-      "end": 15493570
+      "start": 15488816,
+      "end": 15493796
     }, {
       "filename": "/app/js/main.c",
-      "start": 15493570,
-      "end": 15497573
+      "start": 15493796,
+      "end": 15497799
     }, {
       "filename": "/app/js/memory-game.js",
-      "start": 15497573,
-      "end": 15504231
+      "start": 15497799,
+      "end": 15504457
     }, {
       "filename": "/app/js/memory-game.json",
-      "start": 15504231,
-      "end": 15515648
+      "start": 15504457,
+      "end": 15515874
     }, {
       "filename": "/app/js/snake-game.json",
-      "start": 15515648,
-      "end": 15521201
+      "start": 15515874,
+      "end": 15521427
     }, {
       "filename": "/app/js/test-c-call.js",
-      "start": 15521201,
-      "end": 15522380
+      "start": 15521427,
+      "end": 15522606
     }, {
       "filename": "/app/js/theme-example.js",
-      "start": 15522380,
-      "end": 15529459
+      "start": 15522606,
+      "end": 15529685
     }, {
       "filename": "/app/js/whack-a-mole.js",
-      "start": 15529459,
-      "end": 15537661
+      "start": 15529685,
+      "end": 15537887
     }, {
       "filename": "/app/js/whack-a-mole.json",
-      "start": 15537661,
-      "end": 15545744
+      "start": 15537887,
+      "end": 15545970
     }, {
       "filename": "/app/lib/http.js",
-      "start": 15545744,
-      "end": 15553658
+      "start": 15545970,
+      "end": 15553884
     }, {
       "filename": "/app/lib/theme.js",
-      "start": 15553658,
-      "end": 15576043
+      "start": 15553884,
+      "end": 15576269
     }, {
       "filename": "/app/light-theme.json",
-      "start": 15576043,
-      "end": 15577483
+      "start": 15576269,
+      "end": 15577709
     }, {
       "filename": "/app/login.json",
-      "start": 15577483,
-      "end": 15580378
+      "start": 15577709,
+      "end": 15580604
     }, {
       "filename": "/app/main.c",
-      "start": 15580378,
-      "end": 15583997
+      "start": 15580604,
+      "end": 15584223
     }, {
       "filename": "/app/music.json",
-      "start": 15583997,
-      "end": 15592239
+      "start": 15584223,
+      "end": 15592465
     }, {
       "filename": "/app/network/app.json",
-      "start": 15592239,
-      "end": 15592518
+      "start": 15592465,
+      "end": 15592744
     }, {
       "filename": "/app/network/main.c",
-      "start": 15592518,
-      "end": 15596411
+      "start": 15592744,
+      "end": 15596637
     }, {
       "filename": "/app/network/test-http-embedded-ip.js",
-      "start": 15596411,
-      "end": 15601998
+      "start": 15596637,
+      "end": 15602224
     }, {
       "filename": "/app/network/test-http-embedded.js",
-      "start": 15601998,
-      "end": 15611010
+      "start": 15602224,
+      "end": 15611236
     }, {
       "filename": "/app/network/test-http.js",
-      "start": 15611010,
-      "end": 15613415
+      "start": 15611236,
+      "end": 15613641
     }, {
       "filename": "/app/network/test-net.js",
-      "start": 15613415,
-      "end": 15613973
+      "start": 15613641,
+      "end": 15614199
     }, {
       "filename": "/app/network/test-net.json",
-      "start": 15613973,
-      "end": 15614103
+      "start": 15614199,
+      "end": 15614329
     }, {
       "filename": "/app/network/test-socket-simple.js",
-      "start": 15614103,
-      "end": 15614724
+      "start": 15614329,
+      "end": 15614950
     }, {
       "filename": "/app/network/test-socket-simple.json",
-      "start": 15614724,
-      "end": 15615131
+      "start": 15614950,
+      "end": 15615357
     }, {
       "filename": "/app/network/test-socket.js",
-      "start": 15615131,
-      "end": 15615780
+      "start": 15615357,
+      "end": 15616006
     }, {
       "filename": "/app/network/test-socket.json",
-      "start": 15615780,
-      "end": 15616183
+      "start": 15616006,
+      "end": 15616409
     }, {
       "filename": "/app/order.json",
-      "start": 15616183,
-      "end": 15625644
+      "start": 15616409,
+      "end": 15625870
     }, {
       "filename": "/app/os-desktop.json",
-      "start": 15625644,
-      "end": 15639563
+      "start": 15625870,
+      "end": 15639789
     }, {
       "filename": "/app/photo-album.json",
-      "start": 15639563,
-      "end": 15645725
+      "start": 15639789,
+      "end": 15645951
     }, {
       "filename": "/app/playground/API_README.md",
-      "start": 15645725,
-      "end": 15652491
+      "start": 15645951,
+      "end": 15652717
     }, {
       "filename": "/app/playground/api-client.js",
-      "start": 15652491,
-      "end": 15665267
+      "start": 15652717,
+      "end": 15665493
     }, {
       "filename": "/app/playground/api-server.py",
-      "start": 15665267,
-      "end": 15694791
+      "start": 15665493,
+      "end": 15695017
     }, {
       "filename": "/app/playground/app.json",
-      "start": 15694791,
-      "end": 15695176
+      "start": 15695017,
+      "end": 15695402
     }, {
       "filename": "/app/playground/json-editor.js",
-      "start": 15695176,
-      "end": 15713925
+      "start": 15695402,
+      "end": 15714151
     }, {
       "filename": "/app/playground/json-editor.json",
-      "start": 15713925,
-      "end": 15724433
+      "start": 15714151,
+      "end": 15724659
     }, {
       "filename": "/app/playground/main.c",
-      "start": 15724433,
-      "end": 15729861
+      "start": 15724659,
+      "end": 15730087
     }, {
       "filename": "/app/playground/requirements.txt",
-      "start": 15729861,
-      "end": 15729892
+      "start": 15730087,
+      "end": 15730118
     }, {
       "filename": "/app/playground/test-api.html",
-      "start": 15729892,
-      "end": 15746824
+      "start": 15730118,
+      "end": 15747050
     }, {
       "filename": "/app/playground/test-socket.json",
-      "start": 15746824,
-      "end": 15747231
+      "start": 15747050,
+      "end": 15747457
     }, {
       "filename": "/app/playground/test_incremental_api.py",
-      "start": 15747231,
-      "end": 15753991
+      "start": 15747457,
+      "end": 15754217
     }, {
       "filename": "/app/reader/README.md",
-      "start": 15753991,
-      "end": 15758472
+      "start": 15754217,
+      "end": 15758698
     }, {
       "filename": "/app/reader/books/book1.txt",
-      "start": 15758472,
-      "end": 15762396
+      "start": 15758698,
+      "end": 15762622
     }, {
       "filename": "/app/reader/books/book2.txt",
-      "start": 15762396,
-      "end": 15766690
+      "start": 15762622,
+      "end": 15766916
     }, {
       "filename": "/app/reader/books/book3.txt",
-      "start": 15766690,
-      "end": 15771033
+      "start": 15766916,
+      "end": 15771259
     }, {
       "filename": "/app/reader/main.c",
-      "start": 15771033,
-      "end": 15776460
+      "start": 15771259,
+      "end": 15776686
     }, {
       "filename": "/app/reader/reader-theme-dark.json",
-      "start": 15776460,
-      "end": 15779135
+      "start": 15776686,
+      "end": 15779361
     }, {
       "filename": "/app/reader/reader-theme-light.json",
-      "start": 15779135,
-      "end": 15781812
+      "start": 15779361,
+      "end": 15782038
     }, {
       "filename": "/app/reader/reader.js",
-      "start": 15781812,
-      "end": 15795485
+      "start": 15782038,
+      "end": 15795711
     }, {
       "filename": "/app/reader/reader.json",
-      "start": 15795485,
-      "end": 15806818
+      "start": 15795711,
+      "end": 15807044
     }, {
       "filename": "/app/tests/advanced_transparent_test.json",
-      "start": 15806818,
-      "end": 15812713
+      "start": 15807044,
+      "end": 15812939
     }, {
       "filename": "/app/tests/blur_performance_test.json",
-      "start": 15812713,
-      "end": 15816126
+      "start": 15812939,
+      "end": 15816352
     }, {
       "filename": "/app/tests/clock.yaml",
-      "start": 15816126,
-      "end": 15817214
+      "start": 15816352,
+      "end": 15817440
     }, {
       "filename": "/app/tests/color_format_test.json",
-      "start": 15817214,
-      "end": 15819376
+      "start": 15817440,
+      "end": 15819602
     }, {
       "filename": "/app/tests/debug-theme.js",
-      "start": 15819376,
-      "end": 15821933
+      "start": 15819602,
+      "end": 15822159
     }, {
       "filename": "/app/tests/font_demo.json",
-      "start": 15821933,
-      "end": 15826663
+      "start": 15822159,
+      "end": 15826889
     }, {
       "filename": "/app/tests/glass_effect_example.json",
-      "start": 15826663,
-      "end": 15828353
+      "start": 15826889,
+      "end": 15828579
     }, {
       "filename": "/app/tests/progress-circle-demo.json",
-      "start": 15828353,
-      "end": 15830546
+      "start": 15828579,
+      "end": 15830772
     }, {
       "filename": "/app/tests/progress-demo.json",
-      "start": 15830546,
-      "end": 15832743
+      "start": 15830772,
+      "end": 15832969
     }, {
       "filename": "/app/tests/scope-test-first.js",
-      "start": 15832743,
-      "end": 15833918
+      "start": 15832969,
+      "end": 15834144
     }, {
       "filename": "/app/tests/scope-test-second.js",
-      "start": 15833918,
-      "end": 15837216
+      "start": 15834144,
+      "end": 15837442
     }, {
       "filename": "/app/tests/scope-test.json",
-      "start": 15837216,
-      "end": 15837745
+      "start": 15837442,
+      "end": 15837971
     }, {
       "filename": "/app/tests/test-animation.json",
-      "start": 15837745,
-      "end": 15844645
+      "start": 15837971,
+      "end": 15844871
     }, {
       "filename": "/app/tests/test-checkbox-basic.json",
-      "start": 15844645,
-      "end": 15845021
+      "start": 15844871,
+      "end": 15845247
     }, {
       "filename": "/app/tests/test-checkbox.json",
-      "start": 15845021,
-      "end": 15852732
+      "start": 15845247,
+      "end": 15852958
     }, {
       "filename": "/app/tests/test-color.json",
-      "start": 15852732,
-      "end": 15853940
+      "start": 15852958,
+      "end": 15854166
     }, {
       "filename": "/app/tests/test-commented-json.json",
-      "start": 15853940,
-      "end": 15854453
+      "start": 15854166,
+      "end": 15854679
     }, {
       "filename": "/app/tests/test-comprehensive.json",
-      "start": 15854453,
-      "end": 15876617
+      "start": 15854679,
+      "end": 15876843
     }, {
       "filename": "/app/tests/test-dialog.json",
-      "start": 15876617,
-      "end": 15881032
+      "start": 15876843,
+      "end": 15881258
     }, {
       "filename": "/app/tests/test-dropdown.json",
-      "start": 15881032,
-      "end": 15886272
+      "start": 15881258,
+      "end": 15886498
     }, {
       "filename": "/app/tests/test-editor.json",
-      "start": 15886272,
-      "end": 15890841
+      "start": 15886498,
+      "end": 15891067
     }, {
       "filename": "/app/tests/test-grid.json",
-      "start": 15890841,
-      "end": 15900370
+      "start": 15891067,
+      "end": 15900596
     }, {
       "filename": "/app/tests/test-input.json",
-      "start": 15900370,
-      "end": 15907973
+      "start": 15900596,
+      "end": 15908199
     }, {
       "filename": "/app/tests/test-inspect.js",
-      "start": 15907973,
-      "end": 15910531
+      "start": 15908199,
+      "end": 15910757
     }, {
       "filename": "/app/tests/test-inspect.json",
-      "start": 15910531,
-      "end": 15912897
+      "start": 15910757,
+      "end": 15913123
     }, {
       "filename": "/app/tests/test-json-update-en.js",
-      "start": 15912897,
-      "end": 15913725
+      "start": 15913123,
+      "end": 15913951
     }, {
       "filename": "/app/tests/test-json-update-simple.js",
-      "start": 15913725,
-      "end": 15914607
+      "start": 15913951,
+      "end": 15914833
     }, {
       "filename": "/app/tests/test-json-update.js",
-      "start": 15914607,
-      "end": 15916552
+      "start": 15914833,
+      "end": 15916778
     }, {
       "filename": "/app/tests/test-json-update.json",
-      "start": 15916552,
-      "end": 15919404
+      "start": 15916778,
+      "end": 15919630
     }, {
       "filename": "/app/tests/test-layout.json",
-      "start": 15919404,
-      "end": 15920187
+      "start": 15919630,
+      "end": 15920413
     }, {
       "filename": "/app/tests/test-layout2.json",
-      "start": 15920187,
-      "end": 15921915
+      "start": 15920413,
+      "end": 15922141
     }, {
       "filename": "/app/tests/test-layout3.json",
-      "start": 15921915,
-      "end": 15922468
+      "start": 15922141,
+      "end": 15922694
     }, {
       "filename": "/app/tests/test-lines.json",
-      "start": 15922468,
-      "end": 15922798
+      "start": 15922694,
+      "end": 15923024
     }, {
       "filename": "/app/tests/test-list.json",
-      "start": 15922798,
-      "end": 15923867
+      "start": 15923024,
+      "end": 15924093
     }, {
       "filename": "/app/tests/test-list2.json",
-      "start": 15923867,
-      "end": 15925515
+      "start": 15924093,
+      "end": 15925741
     }, {
       "filename": "/app/tests/test-mario-object.js",
-      "start": 15925515,
-      "end": 15925937
+      "start": 15925741,
+      "end": 15926163
     }, {
       "filename": "/app/tests/test-mario-object.json",
-      "start": 15925937,
-      "end": 15926726
+      "start": 15926163,
+      "end": 15926952
     }, {
       "filename": "/app/tests/test-menu.json",
-      "start": 15926726,
-      "end": 15933241
+      "start": 15926952,
+      "end": 15933467
     }, {
       "filename": "/app/tests/test-popup-menu.json",
-      "start": 15933241,
-      "end": 15935970
+      "start": 15933467,
+      "end": 15936196
     }, {
       "filename": "/app/tests/test-progress.json",
-      "start": 15935970,
-      "end": 15939335
+      "start": 15936196,
+      "end": 15939561
     }, {
       "filename": "/app/tests/test-quickjs-simple.js",
-      "start": 15939335,
-      "end": 15939556
+      "start": 15939561,
+      "end": 15939782
     }, {
       "filename": "/app/tests/test-radiobox.json",
-      "start": 15939556,
-      "end": 15956214
+      "start": 15939782,
+      "end": 15956440
     }, {
       "filename": "/app/tests/test-radiobox2.json",
-      "start": 15956214,
-      "end": 15958114
+      "start": 15956440,
+      "end": 15958340
     }, {
       "filename": "/app/tests/test-radius.json",
-      "start": 15958114,
-      "end": 15959935
+      "start": 15958340,
+      "end": 15960161
     }, {
       "filename": "/app/tests/test-scroll-new.json",
-      "start": 15959935,
-      "end": 15967021
+      "start": 15960161,
+      "end": 15967247
     }, {
       "filename": "/app/tests/test-scrollbar-final.json",
-      "start": 15967021,
-      "end": 15975483
+      "start": 15967247,
+      "end": 15975709
     }, {
       "filename": "/app/tests/test-select-dropdown-direction.json",
-      "start": 15975483,
-      "end": 15976781
+      "start": 15975709,
+      "end": 15977007
     }, {
       "filename": "/app/tests/test-select-dropdown-direction.yaml",
-      "start": 15976781,
-      "end": 15978019
+      "start": 15977007,
+      "end": 15978245
     }, {
       "filename": "/app/tests/test-select-label-value.json",
-      "start": 15978019,
-      "end": 15978951
+      "start": 15978245,
+      "end": 15979177
     }, {
       "filename": "/app/tests/test-select-text.json",
-      "start": 15978951,
-      "end": 15985146
+      "start": 15979177,
+      "end": 15985372
     }, {
       "filename": "/app/tests/test-select.json",
-      "start": 15985146,
-      "end": 15992110
+      "start": 15985372,
+      "end": 15992336
     }, {
       "filename": "/app/tests/test-simple-scroll.json",
-      "start": 15992110,
-      "end": 15995489
+      "start": 15992336,
+      "end": 15995715
     }, {
       "filename": "/app/tests/test-simple.json",
-      "start": 15995489,
-      "end": 15998720
+      "start": 15995715,
+      "end": 15998946
     }, {
       "filename": "/app/tests/test-slider.json",
-      "start": 15998720,
-      "end": 16004915
+      "start": 15998946,
+      "end": 16005141
     }, {
       "filename": "/app/tests/test-space-around.json",
-      "start": 16004915,
-      "end": 16007554
+      "start": 16005141,
+      "end": 16007780
     }, {
       "filename": "/app/tests/test-tab.json",
-      "start": 16007554,
-      "end": 16015329
+      "start": 16007780,
+      "end": 16015555
     }, {
       "filename": "/app/tests/test-text-onchange.js",
-      "start": 16015329,
-      "end": 16015628
+      "start": 16015555,
+      "end": 16015854
     }, {
       "filename": "/app/tests/test-text-onchange.json",
-      "start": 16015628,
-      "end": 16016974
+      "start": 16015854,
+      "end": 16017200
     }, {
       "filename": "/app/tests/test-text-scroll.json",
-      "start": 16016974,
-      "end": 16018817
+      "start": 16017200,
+      "end": 16019043
     }, {
       "filename": "/app/tests/test-theme.js",
-      "start": 16018817,
-      "end": 16036559
+      "start": 16019043,
+      "end": 16036785
     }, {
       "filename": "/app/tests/test-theme.json",
-      "start": 16036559,
-      "end": 16037763
+      "start": 16036785,
+      "end": 16037989
     }, {
       "filename": "/app/tests/test-touch.json",
-      "start": 16037763,
-      "end": 16039572
+      "start": 16037989,
+      "end": 16039798
     }, {
       "filename": "/app/tests/test-treeview.json",
-      "start": 16039572,
-      "end": 16048432
+      "start": 16039798,
+      "end": 16048658
     }, {
       "filename": "/app/tests/test-update-object.js",
-      "start": 16048432,
-      "end": 16050635
+      "start": 16048658,
+      "end": 16050861
     }, {
       "filename": "/app/tests/test-update-object.json",
-      "start": 16050635,
-      "end": 16053559
+      "start": 16050861,
+      "end": 16053785
     }, {
       "filename": "/app/tests/test-update-simple.json",
-      "start": 16053559,
-      "end": 16054261
+      "start": 16053785,
+      "end": 16054487
     }, {
       "filename": "/app/tests/test_font_debug.json",
-      "start": 16054261,
-      "end": 16054675
+      "start": 16054487,
+      "end": 16054901
     }, {
       "filename": "/app/tests/test_font_simple.json",
-      "start": 16054675,
-      "end": 16055548
+      "start": 16054901,
+      "end": 16055774
     }, {
       "filename": "/app/tests/theme-simple-test.js",
-      "start": 16055548,
-      "end": 16060256
+      "start": 16055774,
+      "end": 16060482
     }, {
       "filename": "/app/tests/theme-simple-test.json",
-      "start": 16060256,
-      "end": 16061380
+      "start": 16060482,
+      "end": 16061606
     }, {
       "filename": "/app/tests/transparent_test.json",
-      "start": 16061380,
-      "end": 16064033
+      "start": 16061606,
+      "end": 16064259
     }, {
       "filename": "/app/theme.json",
-      "start": 16064033,
-      "end": 16064033
+      "start": 16064259,
+      "end": 16064259
     }, {
       "filename": "/app/watch-desktop.json",
-      "start": 16064033,
-      "end": 16069022
+      "start": 16064259,
+      "end": 16069248
     }, {
       "filename": "/app/watch-health.json",
-      "start": 16069022,
-      "end": 16085609
+      "start": 16069248,
+      "end": 16085835
     }, {
       "filename": "/app/watch-health.yaml",
-      "start": 16085609,
-      "end": 16093485
+      "start": 16085835,
+      "end": 16093711
     }, {
       "filename": "/app/watch-menu.json",
-      "start": 16093485,
-      "end": 16107692
+      "start": 16093711,
+      "end": 16107918
     }, {
       "filename": "/app/ya.py",
-      "start": 16107692,
-      "end": 16111405
+      "start": 16107918,
+      "end": 16111631
     } ],
-    "remote_package_size": 16111405
+    "remote_package_size": 16111631
   });
 })();
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp5hw6bqw5.js
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpauiez4a1.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpxviq6kmh.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp0ka5e0k_.js
 // All the pre-js content up to here must remain later on, we need to run
 // it.
 if ((typeof ENVIRONMENT_IS_WASM_WORKER != "undefined" && ENVIRONMENT_IS_WASM_WORKER) || (typeof ENVIRONMENT_IS_PTHREAD != "undefined" && ENVIRONMENT_IS_PTHREAD) || (typeof ENVIRONMENT_IS_AUDIO_WORKLET != "undefined" && ENVIRONMENT_IS_AUDIO_WORKLET)) Module["preRun"] = [];
 
 var necessaryPreJSTasks = Module["preRun"].slice();
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpauiez4a1.js
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpxspohu8v.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp0ka5e0k_.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpir_hf5sk.js
 if (!Module["preRun"]) throw "Module.preRun should exist because file support used it; did a pre-js delete it?";
 
 necessaryPreJSTasks.forEach(task => {
   if (Module["preRun"].indexOf(task) < 0) throw "All preRun tasks that exist before user pre-js code should remain after; did you replace Module or modify Module.preRun?";
 });
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpxspohu8v.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpir_hf5sk.js
 var arguments_ = [];
 
 var thisProgram = "./this.program";
@@ -12503,9 +12507,9 @@ var _htons = Module["_htons"] = makeInvalidEarlyAccess("_htons");
 
 var _ntohs = Module["_ntohs"] = makeInvalidEarlyAccess("_ntohs");
 
-var _htonl = Module["_htonl"] = makeInvalidEarlyAccess("_htonl");
-
 var _fflush = Module["_fflush"] = makeInvalidEarlyAccess("_fflush");
+
+var _htonl = Module["_htonl"] = makeInvalidEarlyAccess("_htonl");
 
 var ___funcs_on_exit = Module["___funcs_on_exit"] = makeInvalidEarlyAccess("___funcs_on_exit");
 
@@ -12558,8 +12562,8 @@ function assignWasmExports(wasmExports) {
   assert(typeof wasmExports["strerror"] != "undefined", "missing Wasm export: strerror");
   assert(typeof wasmExports["htons"] != "undefined", "missing Wasm export: htons");
   assert(typeof wasmExports["ntohs"] != "undefined", "missing Wasm export: ntohs");
-  assert(typeof wasmExports["htonl"] != "undefined", "missing Wasm export: htonl");
   assert(typeof wasmExports["fflush"] != "undefined", "missing Wasm export: fflush");
+  assert(typeof wasmExports["htonl"] != "undefined", "missing Wasm export: htonl");
   assert(typeof wasmExports["__funcs_on_exit"] != "undefined", "missing Wasm export: __funcs_on_exit");
   assert(typeof wasmExports["fileno"] != "undefined", "missing Wasm export: fileno");
   assert(typeof wasmExports["emscripten_stack_get_end"] != "undefined", "missing Wasm export: emscripten_stack_get_end");
@@ -12586,8 +12590,8 @@ function assignWasmExports(wasmExports) {
   _strerror = Module["_strerror"] = createExportWrapper("strerror", 1);
   _htons = Module["_htons"] = createExportWrapper("htons", 1);
   _ntohs = Module["_ntohs"] = createExportWrapper("ntohs", 1);
-  _htonl = Module["_htonl"] = createExportWrapper("htonl", 1);
   _fflush = Module["_fflush"] = createExportWrapper("fflush", 1);
+  _htonl = Module["_htonl"] = createExportWrapper("htonl", 1);
   ___funcs_on_exit = Module["___funcs_on_exit"] = createExportWrapper("__funcs_on_exit", 0);
   _fileno = Module["_fileno"] = createExportWrapper("fileno", 1);
   _emscripten_stack_get_end = Module["_emscripten_stack_get_end"] = wasmExports["emscripten_stack_get_end"];
