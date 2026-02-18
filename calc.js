@@ -68,7 +68,7 @@ var ENVIRONMENT_IS_SHELL = !ENVIRONMENT_IS_WEB && !ENVIRONMENT_IS_NODE && !ENVIR
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpkxl5mnye.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp5hw6bqw5.js
 if (!Module["expectedDataFileDownloads"]) Module["expectedDataFileDownloads"] = 0;
 
 Module["expectedDataFileDownloads"]++;
@@ -265,565 +265,565 @@ Module["expectedDataFileDownloads"]++;
     }, {
       "filename": "/app/calc/main.c",
       "start": 15455696,
-      "end": 15461114
+      "end": 15461119
     }, {
       "filename": "/app/camera/app.json",
-      "start": 15461114,
-      "end": 15468613
+      "start": 15461119,
+      "end": 15468618
     }, {
       "filename": "/app/camera/camera.js",
-      "start": 15468613,
-      "end": 15475329
+      "start": 15468618,
+      "end": 15475334
     }, {
       "filename": "/app/camera/main.c",
-      "start": 15475329,
-      "end": 15480753
+      "start": 15475334,
+      "end": 15480758
     }, {
       "filename": "/app/clock-new.json",
-      "start": 15480753,
-      "end": 15484251
+      "start": 15480758,
+      "end": 15484256
     }, {
       "filename": "/app/clock-simple.json",
-      "start": 15484251,
-      "end": 15485025
+      "start": 15484256,
+      "end": 15485030
     }, {
       "filename": "/app/clock.json",
-      "start": 15485025,
-      "end": 15486709
+      "start": 15485030,
+      "end": 15486714
     }, {
       "filename": "/app/dark-theme.json",
-      "start": 15486709,
-      "end": 15488148
+      "start": 15486714,
+      "end": 15488153
     }, {
       "filename": "/app/js/app.json",
-      "start": 15488148,
-      "end": 15488585
+      "start": 15488153,
+      "end": 15488590
     }, {
       "filename": "/app/js/apple-catcher.json",
-      "start": 15488585,
-      "end": 15493565
+      "start": 15488590,
+      "end": 15493570
     }, {
       "filename": "/app/js/main.c",
-      "start": 15493565,
-      "end": 15497568
+      "start": 15493570,
+      "end": 15497573
     }, {
       "filename": "/app/js/memory-game.js",
-      "start": 15497568,
-      "end": 15504226
+      "start": 15497573,
+      "end": 15504231
     }, {
       "filename": "/app/js/memory-game.json",
-      "start": 15504226,
-      "end": 15515643
+      "start": 15504231,
+      "end": 15515648
     }, {
       "filename": "/app/js/snake-game.json",
-      "start": 15515643,
-      "end": 15521196
+      "start": 15515648,
+      "end": 15521201
     }, {
       "filename": "/app/js/test-c-call.js",
-      "start": 15521196,
-      "end": 15522375
+      "start": 15521201,
+      "end": 15522380
     }, {
       "filename": "/app/js/theme-example.js",
-      "start": 15522375,
-      "end": 15529454
+      "start": 15522380,
+      "end": 15529459
     }, {
       "filename": "/app/js/whack-a-mole.js",
-      "start": 15529454,
-      "end": 15537656
+      "start": 15529459,
+      "end": 15537661
     }, {
       "filename": "/app/js/whack-a-mole.json",
-      "start": 15537656,
-      "end": 15545739
+      "start": 15537661,
+      "end": 15545744
     }, {
       "filename": "/app/lib/http.js",
-      "start": 15545739,
-      "end": 15553653
+      "start": 15545744,
+      "end": 15553658
     }, {
       "filename": "/app/lib/theme.js",
-      "start": 15553653,
-      "end": 15576038
+      "start": 15553658,
+      "end": 15576043
     }, {
       "filename": "/app/light-theme.json",
-      "start": 15576038,
-      "end": 15577478
+      "start": 15576043,
+      "end": 15577483
     }, {
       "filename": "/app/login.json",
-      "start": 15577478,
-      "end": 15580373
+      "start": 15577483,
+      "end": 15580378
     }, {
       "filename": "/app/main.c",
-      "start": 15580373,
-      "end": 15583992
+      "start": 15580378,
+      "end": 15583997
     }, {
       "filename": "/app/music.json",
-      "start": 15583992,
-      "end": 15592234
+      "start": 15583997,
+      "end": 15592239
     }, {
       "filename": "/app/network/app.json",
-      "start": 15592234,
-      "end": 15592513
+      "start": 15592239,
+      "end": 15592518
     }, {
       "filename": "/app/network/main.c",
-      "start": 15592513,
-      "end": 15596406
+      "start": 15592518,
+      "end": 15596411
     }, {
       "filename": "/app/network/test-http-embedded-ip.js",
-      "start": 15596406,
-      "end": 15601993
+      "start": 15596411,
+      "end": 15601998
     }, {
       "filename": "/app/network/test-http-embedded.js",
-      "start": 15601993,
-      "end": 15611005
+      "start": 15601998,
+      "end": 15611010
     }, {
       "filename": "/app/network/test-http.js",
-      "start": 15611005,
-      "end": 15613410
+      "start": 15611010,
+      "end": 15613415
     }, {
       "filename": "/app/network/test-net.js",
-      "start": 15613410,
-      "end": 15613968
+      "start": 15613415,
+      "end": 15613973
     }, {
       "filename": "/app/network/test-net.json",
-      "start": 15613968,
-      "end": 15614098
+      "start": 15613973,
+      "end": 15614103
     }, {
       "filename": "/app/network/test-socket-simple.js",
-      "start": 15614098,
-      "end": 15614719
+      "start": 15614103,
+      "end": 15614724
     }, {
       "filename": "/app/network/test-socket-simple.json",
-      "start": 15614719,
-      "end": 15615126
+      "start": 15614724,
+      "end": 15615131
     }, {
       "filename": "/app/network/test-socket.js",
-      "start": 15615126,
-      "end": 15615775
+      "start": 15615131,
+      "end": 15615780
     }, {
       "filename": "/app/network/test-socket.json",
-      "start": 15615775,
-      "end": 15616178
+      "start": 15615780,
+      "end": 15616183
     }, {
       "filename": "/app/order.json",
-      "start": 15616178,
-      "end": 15625639
+      "start": 15616183,
+      "end": 15625644
     }, {
       "filename": "/app/os-desktop.json",
-      "start": 15625639,
-      "end": 15639558
+      "start": 15625644,
+      "end": 15639563
     }, {
       "filename": "/app/photo-album.json",
-      "start": 15639558,
-      "end": 15645720
+      "start": 15639563,
+      "end": 15645725
     }, {
       "filename": "/app/playground/API_README.md",
-      "start": 15645720,
-      "end": 15652486
+      "start": 15645725,
+      "end": 15652491
     }, {
       "filename": "/app/playground/api-client.js",
-      "start": 15652486,
-      "end": 15665262
+      "start": 15652491,
+      "end": 15665267
     }, {
       "filename": "/app/playground/api-server.py",
-      "start": 15665262,
-      "end": 15694786
+      "start": 15665267,
+      "end": 15694791
     }, {
       "filename": "/app/playground/app.json",
-      "start": 15694786,
-      "end": 15695171
+      "start": 15694791,
+      "end": 15695176
     }, {
       "filename": "/app/playground/json-editor.js",
-      "start": 15695171,
-      "end": 15713920
+      "start": 15695176,
+      "end": 15713925
     }, {
       "filename": "/app/playground/json-editor.json",
-      "start": 15713920,
-      "end": 15724428
+      "start": 15713925,
+      "end": 15724433
     }, {
       "filename": "/app/playground/main.c",
-      "start": 15724428,
-      "end": 15729856
+      "start": 15724433,
+      "end": 15729861
     }, {
       "filename": "/app/playground/requirements.txt",
-      "start": 15729856,
-      "end": 15729887
+      "start": 15729861,
+      "end": 15729892
     }, {
       "filename": "/app/playground/test-api.html",
-      "start": 15729887,
-      "end": 15746819
+      "start": 15729892,
+      "end": 15746824
     }, {
       "filename": "/app/playground/test-socket.json",
-      "start": 15746819,
-      "end": 15747226
+      "start": 15746824,
+      "end": 15747231
     }, {
       "filename": "/app/playground/test_incremental_api.py",
-      "start": 15747226,
-      "end": 15753986
+      "start": 15747231,
+      "end": 15753991
     }, {
       "filename": "/app/reader/README.md",
-      "start": 15753986,
-      "end": 15758467
+      "start": 15753991,
+      "end": 15758472
     }, {
       "filename": "/app/reader/books/book1.txt",
-      "start": 15758467,
-      "end": 15762391
+      "start": 15758472,
+      "end": 15762396
     }, {
       "filename": "/app/reader/books/book2.txt",
-      "start": 15762391,
-      "end": 15766685
+      "start": 15762396,
+      "end": 15766690
     }, {
       "filename": "/app/reader/books/book3.txt",
-      "start": 15766685,
-      "end": 15771028
+      "start": 15766690,
+      "end": 15771033
     }, {
       "filename": "/app/reader/main.c",
-      "start": 15771028,
-      "end": 15776455
+      "start": 15771033,
+      "end": 15776460
     }, {
       "filename": "/app/reader/reader-theme-dark.json",
-      "start": 15776455,
-      "end": 15779130
+      "start": 15776460,
+      "end": 15779135
     }, {
       "filename": "/app/reader/reader-theme-light.json",
-      "start": 15779130,
-      "end": 15781807
+      "start": 15779135,
+      "end": 15781812
     }, {
       "filename": "/app/reader/reader.js",
-      "start": 15781807,
-      "end": 15795480
+      "start": 15781812,
+      "end": 15795485
     }, {
       "filename": "/app/reader/reader.json",
-      "start": 15795480,
-      "end": 15806813
+      "start": 15795485,
+      "end": 15806818
     }, {
       "filename": "/app/tests/advanced_transparent_test.json",
-      "start": 15806813,
-      "end": 15812708
+      "start": 15806818,
+      "end": 15812713
     }, {
       "filename": "/app/tests/blur_performance_test.json",
-      "start": 15812708,
-      "end": 15816121
+      "start": 15812713,
+      "end": 15816126
     }, {
       "filename": "/app/tests/clock.yaml",
-      "start": 15816121,
-      "end": 15817209
+      "start": 15816126,
+      "end": 15817214
     }, {
       "filename": "/app/tests/color_format_test.json",
-      "start": 15817209,
-      "end": 15819371
+      "start": 15817214,
+      "end": 15819376
     }, {
       "filename": "/app/tests/debug-theme.js",
-      "start": 15819371,
-      "end": 15821928
+      "start": 15819376,
+      "end": 15821933
     }, {
       "filename": "/app/tests/font_demo.json",
-      "start": 15821928,
-      "end": 15826658
+      "start": 15821933,
+      "end": 15826663
     }, {
       "filename": "/app/tests/glass_effect_example.json",
-      "start": 15826658,
-      "end": 15828348
+      "start": 15826663,
+      "end": 15828353
     }, {
       "filename": "/app/tests/progress-circle-demo.json",
-      "start": 15828348,
-      "end": 15830541
+      "start": 15828353,
+      "end": 15830546
     }, {
       "filename": "/app/tests/progress-demo.json",
-      "start": 15830541,
-      "end": 15832738
+      "start": 15830546,
+      "end": 15832743
     }, {
       "filename": "/app/tests/scope-test-first.js",
-      "start": 15832738,
-      "end": 15833913
+      "start": 15832743,
+      "end": 15833918
     }, {
       "filename": "/app/tests/scope-test-second.js",
-      "start": 15833913,
-      "end": 15837211
+      "start": 15833918,
+      "end": 15837216
     }, {
       "filename": "/app/tests/scope-test.json",
-      "start": 15837211,
-      "end": 15837740
+      "start": 15837216,
+      "end": 15837745
     }, {
       "filename": "/app/tests/test-animation.json",
-      "start": 15837740,
-      "end": 15844640
+      "start": 15837745,
+      "end": 15844645
     }, {
       "filename": "/app/tests/test-checkbox-basic.json",
-      "start": 15844640,
-      "end": 15845016
+      "start": 15844645,
+      "end": 15845021
     }, {
       "filename": "/app/tests/test-checkbox.json",
-      "start": 15845016,
-      "end": 15852727
+      "start": 15845021,
+      "end": 15852732
     }, {
       "filename": "/app/tests/test-color.json",
-      "start": 15852727,
-      "end": 15853935
+      "start": 15852732,
+      "end": 15853940
     }, {
       "filename": "/app/tests/test-commented-json.json",
-      "start": 15853935,
-      "end": 15854448
+      "start": 15853940,
+      "end": 15854453
     }, {
       "filename": "/app/tests/test-comprehensive.json",
-      "start": 15854448,
-      "end": 15876612
+      "start": 15854453,
+      "end": 15876617
     }, {
       "filename": "/app/tests/test-dialog.json",
-      "start": 15876612,
-      "end": 15881027
+      "start": 15876617,
+      "end": 15881032
     }, {
       "filename": "/app/tests/test-dropdown.json",
-      "start": 15881027,
-      "end": 15886267
+      "start": 15881032,
+      "end": 15886272
     }, {
       "filename": "/app/tests/test-editor.json",
-      "start": 15886267,
-      "end": 15890836
+      "start": 15886272,
+      "end": 15890841
     }, {
       "filename": "/app/tests/test-grid.json",
-      "start": 15890836,
-      "end": 15900365
+      "start": 15890841,
+      "end": 15900370
     }, {
       "filename": "/app/tests/test-input.json",
-      "start": 15900365,
-      "end": 15907968
+      "start": 15900370,
+      "end": 15907973
     }, {
       "filename": "/app/tests/test-inspect.js",
-      "start": 15907968,
-      "end": 15910526
+      "start": 15907973,
+      "end": 15910531
     }, {
       "filename": "/app/tests/test-inspect.json",
-      "start": 15910526,
-      "end": 15912892
+      "start": 15910531,
+      "end": 15912897
     }, {
       "filename": "/app/tests/test-json-update-en.js",
-      "start": 15912892,
-      "end": 15913720
+      "start": 15912897,
+      "end": 15913725
     }, {
       "filename": "/app/tests/test-json-update-simple.js",
-      "start": 15913720,
-      "end": 15914602
+      "start": 15913725,
+      "end": 15914607
     }, {
       "filename": "/app/tests/test-json-update.js",
-      "start": 15914602,
-      "end": 15916547
+      "start": 15914607,
+      "end": 15916552
     }, {
       "filename": "/app/tests/test-json-update.json",
-      "start": 15916547,
-      "end": 15919399
+      "start": 15916552,
+      "end": 15919404
     }, {
       "filename": "/app/tests/test-layout.json",
-      "start": 15919399,
-      "end": 15920182
+      "start": 15919404,
+      "end": 15920187
     }, {
       "filename": "/app/tests/test-layout2.json",
-      "start": 15920182,
-      "end": 15921910
+      "start": 15920187,
+      "end": 15921915
     }, {
       "filename": "/app/tests/test-layout3.json",
-      "start": 15921910,
-      "end": 15922463
+      "start": 15921915,
+      "end": 15922468
     }, {
       "filename": "/app/tests/test-lines.json",
-      "start": 15922463,
-      "end": 15922793
+      "start": 15922468,
+      "end": 15922798
     }, {
       "filename": "/app/tests/test-list.json",
-      "start": 15922793,
-      "end": 15923862
+      "start": 15922798,
+      "end": 15923867
     }, {
       "filename": "/app/tests/test-list2.json",
-      "start": 15923862,
-      "end": 15925510
+      "start": 15923867,
+      "end": 15925515
     }, {
       "filename": "/app/tests/test-mario-object.js",
-      "start": 15925510,
-      "end": 15925932
+      "start": 15925515,
+      "end": 15925937
     }, {
       "filename": "/app/tests/test-mario-object.json",
-      "start": 15925932,
-      "end": 15926721
+      "start": 15925937,
+      "end": 15926726
     }, {
       "filename": "/app/tests/test-menu.json",
-      "start": 15926721,
-      "end": 15933236
+      "start": 15926726,
+      "end": 15933241
     }, {
       "filename": "/app/tests/test-popup-menu.json",
-      "start": 15933236,
-      "end": 15935965
+      "start": 15933241,
+      "end": 15935970
     }, {
       "filename": "/app/tests/test-progress.json",
-      "start": 15935965,
-      "end": 15939330
+      "start": 15935970,
+      "end": 15939335
     }, {
       "filename": "/app/tests/test-quickjs-simple.js",
-      "start": 15939330,
-      "end": 15939551
+      "start": 15939335,
+      "end": 15939556
     }, {
       "filename": "/app/tests/test-radiobox.json",
-      "start": 15939551,
-      "end": 15956209
+      "start": 15939556,
+      "end": 15956214
     }, {
       "filename": "/app/tests/test-radiobox2.json",
-      "start": 15956209,
-      "end": 15958109
+      "start": 15956214,
+      "end": 15958114
     }, {
       "filename": "/app/tests/test-radius.json",
-      "start": 15958109,
-      "end": 15959930
+      "start": 15958114,
+      "end": 15959935
     }, {
       "filename": "/app/tests/test-scroll-new.json",
-      "start": 15959930,
-      "end": 15967016
+      "start": 15959935,
+      "end": 15967021
     }, {
       "filename": "/app/tests/test-scrollbar-final.json",
-      "start": 15967016,
-      "end": 15975478
+      "start": 15967021,
+      "end": 15975483
     }, {
       "filename": "/app/tests/test-select-dropdown-direction.json",
-      "start": 15975478,
-      "end": 15976776
+      "start": 15975483,
+      "end": 15976781
     }, {
       "filename": "/app/tests/test-select-dropdown-direction.yaml",
-      "start": 15976776,
-      "end": 15978014
+      "start": 15976781,
+      "end": 15978019
     }, {
       "filename": "/app/tests/test-select-label-value.json",
-      "start": 15978014,
-      "end": 15978946
+      "start": 15978019,
+      "end": 15978951
     }, {
       "filename": "/app/tests/test-select-text.json",
-      "start": 15978946,
-      "end": 15985141
+      "start": 15978951,
+      "end": 15985146
     }, {
       "filename": "/app/tests/test-select.json",
-      "start": 15985141,
-      "end": 15992105
+      "start": 15985146,
+      "end": 15992110
     }, {
       "filename": "/app/tests/test-simple-scroll.json",
-      "start": 15992105,
-      "end": 15995484
+      "start": 15992110,
+      "end": 15995489
     }, {
       "filename": "/app/tests/test-simple.json",
-      "start": 15995484,
-      "end": 15998715
+      "start": 15995489,
+      "end": 15998720
     }, {
       "filename": "/app/tests/test-slider.json",
-      "start": 15998715,
-      "end": 16004910
+      "start": 15998720,
+      "end": 16004915
     }, {
       "filename": "/app/tests/test-space-around.json",
-      "start": 16004910,
-      "end": 16007549
+      "start": 16004915,
+      "end": 16007554
     }, {
       "filename": "/app/tests/test-tab.json",
-      "start": 16007549,
-      "end": 16015324
+      "start": 16007554,
+      "end": 16015329
     }, {
       "filename": "/app/tests/test-text-onchange.js",
-      "start": 16015324,
-      "end": 16015623
+      "start": 16015329,
+      "end": 16015628
     }, {
       "filename": "/app/tests/test-text-onchange.json",
-      "start": 16015623,
-      "end": 16016969
+      "start": 16015628,
+      "end": 16016974
     }, {
       "filename": "/app/tests/test-text-scroll.json",
-      "start": 16016969,
-      "end": 16018812
+      "start": 16016974,
+      "end": 16018817
     }, {
       "filename": "/app/tests/test-theme.js",
-      "start": 16018812,
-      "end": 16036554
+      "start": 16018817,
+      "end": 16036559
     }, {
       "filename": "/app/tests/test-theme.json",
-      "start": 16036554,
-      "end": 16037758
+      "start": 16036559,
+      "end": 16037763
     }, {
       "filename": "/app/tests/test-touch.json",
-      "start": 16037758,
-      "end": 16039567
+      "start": 16037763,
+      "end": 16039572
     }, {
       "filename": "/app/tests/test-treeview.json",
-      "start": 16039567,
-      "end": 16048427
+      "start": 16039572,
+      "end": 16048432
     }, {
       "filename": "/app/tests/test-update-object.js",
-      "start": 16048427,
-      "end": 16050630
+      "start": 16048432,
+      "end": 16050635
     }, {
       "filename": "/app/tests/test-update-object.json",
-      "start": 16050630,
-      "end": 16053554
+      "start": 16050635,
+      "end": 16053559
     }, {
       "filename": "/app/tests/test-update-simple.json",
-      "start": 16053554,
-      "end": 16054256
+      "start": 16053559,
+      "end": 16054261
     }, {
       "filename": "/app/tests/test_font_debug.json",
-      "start": 16054256,
-      "end": 16054670
+      "start": 16054261,
+      "end": 16054675
     }, {
       "filename": "/app/tests/test_font_simple.json",
-      "start": 16054670,
-      "end": 16055543
+      "start": 16054675,
+      "end": 16055548
     }, {
       "filename": "/app/tests/theme-simple-test.js",
-      "start": 16055543,
-      "end": 16060251
+      "start": 16055548,
+      "end": 16060256
     }, {
       "filename": "/app/tests/theme-simple-test.json",
-      "start": 16060251,
-      "end": 16061375
+      "start": 16060256,
+      "end": 16061380
     }, {
       "filename": "/app/tests/transparent_test.json",
-      "start": 16061375,
-      "end": 16064028
+      "start": 16061380,
+      "end": 16064033
     }, {
       "filename": "/app/theme.json",
-      "start": 16064028,
-      "end": 16064028
+      "start": 16064033,
+      "end": 16064033
     }, {
       "filename": "/app/watch-desktop.json",
-      "start": 16064028,
-      "end": 16069017
+      "start": 16064033,
+      "end": 16069022
     }, {
       "filename": "/app/watch-health.json",
-      "start": 16069017,
-      "end": 16085604
+      "start": 16069022,
+      "end": 16085609
     }, {
       "filename": "/app/watch-health.yaml",
-      "start": 16085604,
-      "end": 16093480
+      "start": 16085609,
+      "end": 16093485
     }, {
       "filename": "/app/watch-menu.json",
-      "start": 16093480,
-      "end": 16107687
+      "start": 16093485,
+      "end": 16107692
     }, {
       "filename": "/app/ya.py",
-      "start": 16107687,
-      "end": 16111400
+      "start": 16107692,
+      "end": 16111405
     } ],
-    "remote_package_size": 16111400
+    "remote_package_size": 16111405
   });
 })();
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpkxl5mnye.js
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpnqdpp29c.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp5hw6bqw5.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpauiez4a1.js
 // All the pre-js content up to here must remain later on, we need to run
 // it.
 if ((typeof ENVIRONMENT_IS_WASM_WORKER != "undefined" && ENVIRONMENT_IS_WASM_WORKER) || (typeof ENVIRONMENT_IS_PTHREAD != "undefined" && ENVIRONMENT_IS_PTHREAD) || (typeof ENVIRONMENT_IS_AUDIO_WORKLET != "undefined" && ENVIRONMENT_IS_AUDIO_WORKLET)) Module["preRun"] = [];
 
 var necessaryPreJSTasks = Module["preRun"].slice();
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpnqdpp29c.js
-// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp14os4i5b.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpauiez4a1.js
+// include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpxspohu8v.js
 if (!Module["preRun"]) throw "Module.preRun should exist because file support used it; did a pre-js delete it?";
 
 necessaryPreJSTasks.forEach(task => {
   if (Module["preRun"].indexOf(task) < 0) throw "All preRun tasks that exist before user pre-js code should remain after; did you replace Module or modify Module.preRun?";
 });
 
-// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmp14os4i5b.js
+// end include: /var/folders/qb/lnt75c351359qqjfvb8x0fk00000gn/T/tmpxspohu8v.js
 var arguments_ = [];
 
 var thisProgram = "./this.program";
@@ -11777,7 +11777,7 @@ function checkIncomingModuleAPI() {
 }
 
 var ASM_CONSTS = {
-  307483264: () => {
+  307483296: () => {
     if (window._clipboard_result) {
       var len = lengthBytesUTF8(window._clipboard_result) + 1;
       var ptr = _malloc(len);
@@ -11786,40 +11786,40 @@ var ASM_CONSTS = {
     }
     return 0;
   },
-  307483455: () => {},
-  307483456: () => {},
-  307483457: () => {},
-  307483458: () => {},
-  307483459: () => {},
-  307483460: () => {},
-  307483461: () => {},
-  307483462: () => {},
-  307483463: () => {},
-  307483464: () => {},
-  307483465: () => {},
-  307483466: () => {},
-  307483467: () => {},
-  307483468: () => {},
-  307483469: () => {},
-  307483470: () => {},
-  307483471: () => {},
-  307483472: () => {},
-  307483473: () => {},
-  307483474: () => {},
-  307483475: () => {},
-  307483476: () => {},
-  307483477: () => {},
-  307483478: () => {},
-  307483479: () => {},
-  307483480: () => {},
-  307483481: () => {},
-  307483482: () => {},
-  307483483: () => {},
-  307483484: () => {},
-  307483485: () => {},
-  307483486: () => {},
   307483487: () => {},
-  307483488: () => {
+  307483488: () => {},
+  307483489: () => {},
+  307483490: () => {},
+  307483491: () => {},
+  307483492: () => {},
+  307483493: () => {},
+  307483494: () => {},
+  307483495: () => {},
+  307483496: () => {},
+  307483497: () => {},
+  307483498: () => {},
+  307483499: () => {},
+  307483500: () => {},
+  307483501: () => {},
+  307483502: () => {},
+  307483503: () => {},
+  307483504: () => {},
+  307483505: () => {},
+  307483506: () => {},
+  307483507: () => {},
+  307483508: () => {},
+  307483509: () => {},
+  307483510: () => {},
+  307483511: () => {},
+  307483512: () => {},
+  307483513: () => {},
+  307483514: () => {},
+  307483515: () => {},
+  307483516: () => {},
+  307483517: () => {},
+  307483518: () => {},
+  307483519: () => {},
+  307483520: () => {
     if (navigator && navigator.clipboard && navigator.clipboard.readText) {
       navigator.clipboard.readText().then(function(text) {
         window._clipboard_result = text;
@@ -11833,38 +11833,6 @@ var ASM_CONSTS = {
       window._clipboard_result = "";
     }
   },
-  307483891: () => {},
-  307483892: () => {},
-  307483893: () => {},
-  307483894: () => {},
-  307483895: () => {},
-  307483896: () => {},
-  307483897: () => {},
-  307483898: () => {},
-  307483899: () => {},
-  307483900: () => {},
-  307483901: () => {},
-  307483902: () => {},
-  307483903: () => {},
-  307483904: () => {},
-  307483905: () => {},
-  307483906: () => {},
-  307483907: () => {},
-  307483908: () => {},
-  307483909: () => {},
-  307483910: () => {},
-  307483911: () => {},
-  307483912: () => {},
-  307483913: () => {},
-  307483914: () => {},
-  307483915: () => {},
-  307483916: () => {},
-  307483917: () => {},
-  307483918: () => {},
-  307483919: () => {},
-  307483920: () => {},
-  307483921: () => {},
-  307483922: () => {},
   307483923: () => {},
   307483924: () => {},
   307483925: () => {},
@@ -11942,7 +11910,39 @@ var ASM_CONSTS = {
   307483997: () => {},
   307483998: () => {},
   307483999: () => {},
-  307484e3: $0 => {
+  307484e3: () => {},
+  307484001: () => {},
+  307484002: () => {},
+  307484003: () => {},
+  307484004: () => {},
+  307484005: () => {},
+  307484006: () => {},
+  307484007: () => {},
+  307484008: () => {},
+  307484009: () => {},
+  307484010: () => {},
+  307484011: () => {},
+  307484012: () => {},
+  307484013: () => {},
+  307484014: () => {},
+  307484015: () => {},
+  307484016: () => {},
+  307484017: () => {},
+  307484018: () => {},
+  307484019: () => {},
+  307484020: () => {},
+  307484021: () => {},
+  307484022: () => {},
+  307484023: () => {},
+  307484024: () => {},
+  307484025: () => {},
+  307484026: () => {},
+  307484027: () => {},
+  307484028: () => {},
+  307484029: () => {},
+  307484030: () => {},
+  307484031: () => {},
+  307484032: $0 => {
     var text = UTF8ToString($0);
     if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(text).then(function() {
@@ -11970,38 +11970,6 @@ var ASM_CONSTS = {
     }
     window._clipboard_result = text;
   },
-  307484787: () => {},
-  307484788: () => {},
-  307484789: () => {},
-  307484790: () => {},
-  307484791: () => {},
-  307484792: () => {},
-  307484793: () => {},
-  307484794: () => {},
-  307484795: () => {},
-  307484796: () => {},
-  307484797: () => {},
-  307484798: () => {},
-  307484799: () => {},
-  307484800: () => {},
-  307484801: () => {},
-  307484802: () => {},
-  307484803: () => {},
-  307484804: () => {},
-  307484805: () => {},
-  307484806: () => {},
-  307484807: () => {},
-  307484808: () => {},
-  307484809: () => {},
-  307484810: () => {},
-  307484811: () => {},
-  307484812: () => {},
-  307484813: () => {},
-  307484814: () => {},
-  307484815: () => {},
-  307484816: () => {},
-  307484817: () => {},
-  307484818: () => {},
   307484819: () => {},
   307484820: () => {},
   307484821: () => {},
@@ -12175,7 +12143,39 @@ var ASM_CONSTS = {
   307484989: () => {},
   307484990: () => {},
   307484991: () => {},
-  307484992: $0 => {
+  307484992: () => {},
+  307484993: () => {},
+  307484994: () => {},
+  307484995: () => {},
+  307484996: () => {},
+  307484997: () => {},
+  307484998: () => {},
+  307484999: () => {},
+  307485e3: () => {},
+  307485001: () => {},
+  307485002: () => {},
+  307485003: () => {},
+  307485004: () => {},
+  307485005: () => {},
+  307485006: () => {},
+  307485007: () => {},
+  307485008: () => {},
+  307485009: () => {},
+  307485010: () => {},
+  307485011: () => {},
+  307485012: () => {},
+  307485013: () => {},
+  307485014: () => {},
+  307485015: () => {},
+  307485016: () => {},
+  307485017: () => {},
+  307485018: () => {},
+  307485019: () => {},
+  307485020: () => {},
+  307485021: () => {},
+  307485022: () => {},
+  307485023: () => {},
+  307485024: $0 => {
     var str = UTF8ToString($0) + "\n\n" + "Abort/Retry/Ignore/AlwaysIgnore? [ariA] :";
     var reply = window.prompt(str, "i");
     if (reply === null) {
@@ -12183,7 +12183,7 @@ var ASM_CONSTS = {
     }
     return reply.length === 1 ? reply.charCodeAt(0) : -1;
   },
-  307485207: () => {
+  307485239: () => {
     if (typeof (AudioContext) !== "undefined") {
       return true;
     } else if (typeof (webkitAudioContext) !== "undefined") {
@@ -12191,7 +12191,7 @@ var ASM_CONSTS = {
     }
     return false;
   },
-  307485354: () => {
+  307485386: () => {
     if ((typeof (navigator.mediaDevices) !== "undefined") && (typeof (navigator.mediaDevices.getUserMedia) !== "undefined")) {
       return true;
     } else if (typeof (navigator.webkitGetUserMedia) !== "undefined") {
@@ -12199,7 +12199,7 @@ var ASM_CONSTS = {
     }
     return false;
   },
-  307485588: $0 => {
+  307485620: $0 => {
     if (typeof (Module["SDL2"]) === "undefined") {
       Module["SDL2"] = {};
     }
@@ -12223,11 +12223,11 @@ var ASM_CONSTS = {
     }
     return SDL2.audioContext === undefined ? -1 : 0;
   },
-  307486140: () => {
+  307486172: () => {
     var SDL2 = Module["SDL2"];
     return SDL2.audioContext.sampleRate;
   },
-  307486208: ($0, $1, $2, $3) => {
+  307486240: ($0, $1, $2, $3) => {
     var SDL2 = Module["SDL2"];
     var have_microphone = function(stream) {
       if (SDL2.capture.silenceTimer !== undefined) {
@@ -12269,7 +12269,7 @@ var ASM_CONSTS = {
       }, have_microphone, no_microphone);
     }
   },
-  307487901: ($0, $1, $2, $3) => {
+  307487933: ($0, $1, $2, $3) => {
     var SDL2 = Module["SDL2"];
     SDL2.audio.scriptProcessorNode = SDL2.audioContext["createScriptProcessor"]($1, 0, $0);
     SDL2.audio.scriptProcessorNode["onaudioprocess"] = function(e) {
@@ -12301,7 +12301,7 @@ var ASM_CONSTS = {
       SDL2.audio.silenceTimer = setInterval(silence_callback, ($1 / SDL2.audioContext.sampleRate) * 1e3);
     }
   },
-  307489076: ($0, $1) => {
+  307489108: ($0, $1) => {
     var SDL2 = Module["SDL2"];
     var numChannels = SDL2.capture.currentCaptureBuffer.numberOfChannels;
     for (var c = 0; c < numChannels; ++c) {
@@ -12320,7 +12320,7 @@ var ASM_CONSTS = {
       }
     }
   },
-  307489681: ($0, $1) => {
+  307489713: ($0, $1) => {
     var SDL2 = Module["SDL2"];
     var buf = $0 >>> 2;
     var numChannels = SDL2.audio.currentOutputBuffer["numberOfChannels"];
@@ -12334,7 +12334,7 @@ var ASM_CONSTS = {
       }
     }
   },
-  307490170: $0 => {
+  307490202: $0 => {
     var SDL2 = Module["SDL2"];
     if ($0) {
       if (SDL2.capture.silenceTimer !== undefined) {
@@ -12368,7 +12368,7 @@ var ASM_CONSTS = {
       SDL2.audioContext = undefined;
     }
   },
-  307491176: ($0, $1, $2) => {
+  307491208: ($0, $1, $2) => {
     var w = $0;
     var h = $1;
     var pixels = $2;
@@ -12439,7 +12439,7 @@ var ASM_CONSTS = {
     }
     SDL2.ctx.putImageData(SDL2.image, 0, 0);
   },
-  307492642: ($0, $1, $2, $3, $4) => {
+  307492674: ($0, $1, $2, $3, $4) => {
     var w = $0;
     var h = $1;
     var hot_x = $2;
@@ -12476,18 +12476,18 @@ var ASM_CONSTS = {
     stringToUTF8(url, urlBuf, url.length + 1);
     return urlBuf;
   },
-  307493630: $0 => {
+  307493662: $0 => {
     if (Module["canvas"]) {
       Module["canvas"].style["cursor"] = UTF8ToString($0);
     }
   },
-  307493713: () => {
+  307493745: () => {
     if (Module["canvas"]) {
       Module["canvas"].style["cursor"] = "none";
     }
   },
-  307493782: () => window.innerWidth,
-  307493812: () => window.innerHeight
+  307493814: () => window.innerWidth,
+  307493844: () => window.innerHeight
 };
 
 // Imports from the Wasm binary.
@@ -12503,9 +12503,9 @@ var _htons = Module["_htons"] = makeInvalidEarlyAccess("_htons");
 
 var _ntohs = Module["_ntohs"] = makeInvalidEarlyAccess("_ntohs");
 
-var _fflush = Module["_fflush"] = makeInvalidEarlyAccess("_fflush");
-
 var _htonl = Module["_htonl"] = makeInvalidEarlyAccess("_htonl");
+
+var _fflush = Module["_fflush"] = makeInvalidEarlyAccess("_fflush");
 
 var ___funcs_on_exit = Module["___funcs_on_exit"] = makeInvalidEarlyAccess("___funcs_on_exit");
 
@@ -12558,8 +12558,8 @@ function assignWasmExports(wasmExports) {
   assert(typeof wasmExports["strerror"] != "undefined", "missing Wasm export: strerror");
   assert(typeof wasmExports["htons"] != "undefined", "missing Wasm export: htons");
   assert(typeof wasmExports["ntohs"] != "undefined", "missing Wasm export: ntohs");
-  assert(typeof wasmExports["fflush"] != "undefined", "missing Wasm export: fflush");
   assert(typeof wasmExports["htonl"] != "undefined", "missing Wasm export: htonl");
+  assert(typeof wasmExports["fflush"] != "undefined", "missing Wasm export: fflush");
   assert(typeof wasmExports["__funcs_on_exit"] != "undefined", "missing Wasm export: __funcs_on_exit");
   assert(typeof wasmExports["fileno"] != "undefined", "missing Wasm export: fileno");
   assert(typeof wasmExports["emscripten_stack_get_end"] != "undefined", "missing Wasm export: emscripten_stack_get_end");
@@ -12586,8 +12586,8 @@ function assignWasmExports(wasmExports) {
   _strerror = Module["_strerror"] = createExportWrapper("strerror", 1);
   _htons = Module["_htons"] = createExportWrapper("htons", 1);
   _ntohs = Module["_ntohs"] = createExportWrapper("ntohs", 1);
-  _fflush = Module["_fflush"] = createExportWrapper("fflush", 1);
   _htonl = Module["_htonl"] = createExportWrapper("htonl", 1);
+  _fflush = Module["_fflush"] = createExportWrapper("fflush", 1);
   ___funcs_on_exit = Module["___funcs_on_exit"] = createExportWrapper("__funcs_on_exit", 0);
   _fileno = Module["_fileno"] = createExportWrapper("fileno", 1);
   _emscripten_stack_get_end = Module["_emscripten_stack_get_end"] = wasmExports["emscripten_stack_get_end"];
